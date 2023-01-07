@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Madaan.</h1>
-<h3 align="center">A passionate frontend developer from India trying to gain some experience in Open source</h3>
+<h3 align="center">A passionate frontend developer from India trying to gain some experience in Open source.</h3>
 
 - 🔭 I’m currently learning **Bootstrap.**
 
