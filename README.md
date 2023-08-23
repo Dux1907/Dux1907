@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kartik Madaan</h1><br><h3 align="center">A passionate frontend developer from India trying to gain some experience in Open source.</h3><br><br>- 🌱 I’m currently learning Node.js<br><br>- 👯 I’m looking to collaborate on **anything related to my tech interests.**<br><br>- 🤝 I’m looking for help with **DSA skills.**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Dux1907]<br><br>- 📫 How to reach me **kartikmadaan1907@gmail.com**<br>
+<h1 align="center">Hi 👋, I'm Kartik Madaan</h1><br><h3 align="center">A passionate frontend developer from India trying to gain some experience in Open source.</h3><br><br>- 🌱 I’m currently trying my hands on backend technologies.<br><br>- 👯 I’m looking to collaborate on **anything related to my tech interests.**<br><br>- 🤝 I’m looking for help with **DSA skills.**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Dux1907]<br><br>- 📫 How to reach me **kartikmadaan1907@gmail.com**<br>
 
 
 ## 🌐 Socials:
